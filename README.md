@@ -121,8 +121,6 @@ This project helped strengthen my understanding of:
 
 **Boorgu Sai Shivanand**
 
-B.Tech – Computer Science & Engineering
-
 GitHub: https://github.com/Shivanand16
 
 ---
